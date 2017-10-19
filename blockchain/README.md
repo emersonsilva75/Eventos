@@ -88,7 +88,7 @@ SuperlogicaBlockchain.blockchain
 
 #### Output
 
-```json
+```python
 [{'dados': ['primeiro bloco'],
   'hash_block': 'cd712305acdbd6fad16e9695e88aefaf03e1a95a012b5e97fb931f1c2b2a3ef8',
   'index': 0,
@@ -157,7 +157,7 @@ SuperlogicaBlockchain.blockchain
 ```
 
 #### Output
-```json
+```python
 [{'dados': ['primeiro bloco'],
   'hash_block': 'cd712305acdbd6fad16e9695e88aefaf03e1a95a012b5e97fb931f1c2b2a3ef8',
   'index': 0,
